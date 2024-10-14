@@ -1,0 +1,17 @@
+{
+  "postbackconfig": {
+    "attempt_interval": 300,
+    "basic_auth_username": null,
+    "basic_auth_password": null,
+    "expands": "",
+    "format": "api-default",
+    "is_active": "1",
+    "location_id": "23948sdnfia1129i9asf92",
+    "number_of_attempts": 3,
+    "on_create": "1",
+    "on_delete": "0",
+    "on_update": "1",
+    "resource": "contact",
+    "url": "https://127.0.0.1/updates"
+  }
+}

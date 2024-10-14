@@ -1,0 +1,13 @@
+{
+    "accountvault": {
+        "title": "Test ACH Account",
+        "payment_method": "ach",
+        "account_holder_name": "sumangala",
+        "account_number": "700953657",
+        "account_type": "checking",
+        "is_company": false,
+        "routing": "100020200",
+        "contact_id": "54c285f1-678d-9510-318c-bcb13ab0c1c2",
+        "location_id": "sd9fusd9f-678d-9510-318c-bcb13ab4324"
+    }
+}
